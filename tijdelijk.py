@@ -17,3 +17,4 @@ def print_aanbieding():
             print(el.lower())
 decoreer("Aanbieding")
 print_aanbieding()
+
